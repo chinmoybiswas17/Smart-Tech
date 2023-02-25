@@ -1,5 +1,5 @@
 # Live website link:
-https://used-product-resale-mark-e3488.web.app/
+https://smart-tech-9d5ac.web.app/
 
 ## Features
 * Full-stack website with React, MongoDB, Node & Express.js
